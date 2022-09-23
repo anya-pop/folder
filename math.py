@@ -1,0 +1,6 @@
+##a = int(input("a:"))
+#b = int(input("b:"))
+#print (a*b)
+name1 = input("Enter your name:")
+times = int (input ("Enter how many times you want to repeat your name:"))
+print (name1*times)
